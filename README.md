@@ -1,2 +1,2 @@
 # CoffeeNamu 리뉴얼
-# 홈페이지: https://ddirim.github.io/CoffeeNamu/
+# 홈페이지: https://ddirim.github.io/Coffee-Namu/
